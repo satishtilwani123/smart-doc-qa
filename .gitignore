@@ -1,0 +1,11 @@
+myenv/
+__pycache__/
+*.pyc
+*.log
+.env
+app_backend/.env
+.pytest_cache/
+README.md
+run.bat
+run.ps1
+myenv

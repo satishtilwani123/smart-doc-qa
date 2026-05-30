@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+.git
+.bat
+.ps1
+.env
+app_debug.log
