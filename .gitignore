@@ -5,7 +5,6 @@ __pycache__/
 .env
 app_backend/.env
 .pytest_cache/
-README.md
 run.bat
 run.ps1
 myenv
